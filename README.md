@@ -8,7 +8,7 @@ By doing this project i want to check my html knowledge:
 - Paragraphs
 - Headings
 - Bold/italicized text
-- Creating htms coments
+- Creating html comments
 - lists
-- links to www nad photos
+- links to www and photos
 - preparing good commit messeges
